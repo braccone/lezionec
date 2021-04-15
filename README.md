@@ -5,7 +5,7 @@ Il seguente programma scritto in c++ servirà a simulare una calcolatrice
 
 ### sottotiroli 2
 
-**questo testo sara in grassetto**
+**ho messo una frase più bella**
 
 ALT+96
 ```
