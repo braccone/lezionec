@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# questo mi permette di ignorare la cartella build quando pusho il progetto
+build/ 
